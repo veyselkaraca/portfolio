@@ -1,0 +1,22 @@
+[
+    {
+    "name":"Javascript",
+    "value":55
+    },
+    {
+        "name":"Angular",
+        "value":70
+    },
+    {
+        "name":"C#",
+        "value":80
+    },
+    {
+        "name":"Java",
+        "value":60
+    },
+    {
+        "name":"SQL",
+        "value":58
+    }
+]
