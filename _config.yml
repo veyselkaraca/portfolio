@@ -1,0 +1,20 @@
+# Site settings
+title: Veysel Karaca Portfolio
+description: Veysel Karaca
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Veysel Karaca
+user_description: I'm a Software Engineer from Turkey, DevOps and Web Development are two things that attract me as a computer programmer. Container orchestration, Docker, Kubernetes, DevOps, Git, Jenkins, Agile Methodologies, Microservices, and REST/Restful APIs are some of my interests and skills..
+user_title: DevOps Specialist
+email: veyselkaraca.contact@gmail.com
+twitter_username: veyselkaracaa
+linkedin_username: veyselkaraca
+github_username:  veyselkaraca
+medium_username: '@veyselkaracaa'
+medium_url: veyselkaracaa.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
