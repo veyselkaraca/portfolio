@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 1
       - name: 🧪  Build and deploy
-        uses: jeffreytse/jekyll-deploy-action@v0.3.1
+        uses: jeffreytse/jekyll-deploy-action@v0.5.0
         with:
           token: ${{ secrets.PAT }}
           repository: 'veyselkaraca/portfolio-build'
