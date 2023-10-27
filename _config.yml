@@ -2,7 +2,7 @@
 title: Veysel Karaca DevOps Specialist
 description: I'm a Software Engineer from Turkey, DevOps and Web Development are two things that attract me as a computer programmer.
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "veyselkaraca.com.tr" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Veysel Karaca
@@ -15,6 +15,7 @@ github_username:  veyselkaraca
 medium_username: '@veyselkaracaa'
 medium_url: veyselkaracaa.medium.com
 # gplus_username:  lorem_ipsum
-
+plugins:
+  - jekyll-sitemap
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
